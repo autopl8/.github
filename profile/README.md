@@ -5,5 +5,3 @@ AUTOPL8 is a cutting-edge Automatic Number-Plate Recognition (ANPR) system desig
 ## Why Choose AUTOPL8?
 
 AUTOPL8 offers a reliable, efficient, and user-friendly ANPR solution for various applications, including parking lots, access control, and traffic management. Join us in revolutionizing license plate recognition technology!
-
-For more information, visit our [website](https://autopl8.nerdclub.io) or contact our team at [autopl8@nerdclub.io](mailto:autopl8@nerdclub.io).
